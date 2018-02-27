@@ -18,10 +18,11 @@ author: Christopher Rodriguez
 email: mailto:cdr255@gmail.com
 license: CC-BY-SA 4.0
 licurl: https://creativecommons.org/licenses/by-sa/4.0/
+faviconver: "?v=lkdb7nwE4B"
 description: >- # this means to ignore newlines until "baseurl:"
   A serial fiction archive by Chris Rodriguez.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://prose-and-prosody.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://proseandprosody.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cdr255
 github_username:  cdr255
 
